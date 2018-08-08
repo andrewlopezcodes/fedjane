@@ -20,4 +20,7 @@ body{
   position: absolute;
   z-index: 2;
 }
-what the hell
+.card-img-top{
+  width: 256px;
+  height: 200px;
+}
