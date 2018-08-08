@@ -1,0 +1,28 @@
+body{
+  background-color: #e0e3dd;
+}
+
+.nav{
+  background-color: #f8e3af;
+}
+.navbar-nav{
+  text-align: center;
+}
+.navbar{
+  background-color: #f8e3af;
+  font-size: 2em;
+  text-align: center;
+  height: 48px;
+}
+a{
+  color: #ffffff;
+  text-align: center;
+}
+
+p{
+  text-align: center;
+  font-size: 3em;
+}
+img{
+  width: 100%;
+}
